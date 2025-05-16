@@ -1,0 +1,13 @@
+{
+    "groups": [],
+    "hosts": [],
+    "apps": [],
+    "settings": {
+      "dnsPort": 5353,
+      "proxyPort": 8080,
+      "domainSuffix": "dev.local",
+      "startMinimized": false,
+      "autoStartTunnels": true
+    }
+  }
+  
